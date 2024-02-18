@@ -1,2 +1,6 @@
 bin/osc_to_dmx*.app
 *.zip
+.vscode
+*.app
+obj
+OSC-to-DMX.code-workspace
